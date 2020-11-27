@@ -1,0 +1,3 @@
+npm i express bcryptjs cors dotenv jsonwebtoken mongoose morgan helmet
+
+npm i nodemon morgan -D
